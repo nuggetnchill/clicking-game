@@ -6,7 +6,8 @@ Deployed site:
 ![Screenshot](linkgoeshere)
 
 ### **How To Play**
-
+- Visit link 
+- And just click till 50 for a surprise
 
 ------
 
@@ -27,3 +28,6 @@ For this project, I utilised the following technologies:
 - Vanilla JavaScript, DOM Manipulation
 - Git & GitHub
 - GitHub io deployment platform
+
+
+# Thanks for checking out! #
