@@ -1,6 +1,6 @@
 ## Clicking Game - JavaScript
 
-Deployed site: 
+Deployed site: https://nuggetnchill.github.io/clicking-game/
 
 ------
 ![Screenshot](linkgoeshere)
