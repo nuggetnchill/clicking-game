@@ -21,7 +21,7 @@ function almost() {
 
 function yay() {
     document.body.style.background = " url('') ";
-    document.getElementById("page").style.background = "#f3f3f3 url('https://www.todayifoundout.com/wp-content/uploads/2017/11/rick-astley.png') repeat"
+    document.getElementById("page").style.background = "url('https://www.todayifoundout.com/wp-content/uploads/2017/11/rick-astley.png')";
     document.getElementById("showText").textContent = `Thanks for playing`;
 
     // document.getElementById("video").style.display = "block";
@@ -32,7 +32,7 @@ function yay() {
 
 function textChange() {
     if (value > 5, value < 10) {
-        yay();
+        nice();
     } else if (value <= 5) {
         start();
     } else if (value >= 10, value < 20) {
