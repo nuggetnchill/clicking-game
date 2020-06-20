@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Clicking Game </title>
+        <link rel="stylesheet" href="main.css"/>
+    </head>
+    <body>
+
+        <div class="container">
+            <button class="increment" onclick="incrementNum()">Click me</button>
+            <button class="decrement" onclick="decrementNum()">Don't click</button>
+            <br>
+            <br>
+            <input type="text" id="num" value="0">
+            <br>
+            <br>
+            <div class="reset-btn">
+                <button class="reset" onclick="reset()">Reset</button>
+            </div>
+            <h1 id="showText">Let's Play!</h1>
+        </div>
+        <div id="video" style="display:none">
+            <iframe src="https://www.youtube.com/embed/oHg5SJYRHA0?enablejsapi=1" frameborder="0" allowfullscreen
+                id="videosrc"></iframe>
+        </div>
+        <script src="main.js"></script>
+    </body>
+</html>
