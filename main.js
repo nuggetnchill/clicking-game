@@ -19,6 +19,10 @@ function almost() {
     document.getElementById("showText").textContent = `Hit 50 and you'll see`;
 }
 
+function soclose() {
+    document.getElementById("showText").textContent = `C'mon, Almost there!`;
+}
+
 function yay() {
     document.body.style.background = " url('') ";
     document.getElementById("page").style.background = "url('https://www.todayifoundout.com/wp-content/uploads/2017/11/rick-astley.png')";
@@ -39,8 +43,10 @@ function textChange() {
         meh();
     } else if (value >= 20, value < 30) {
         letsgo();
-    } else if (value >= 30, value < 50) {
+    } else if (value >= 30, value < 40) {
         almost();
+    } else if (value >= 40, value < 50) {
+        soclose();
     } else if (value >= 50) {
         yay();
     }
