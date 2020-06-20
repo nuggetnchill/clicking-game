@@ -3,7 +3,7 @@
 Deployed site: https://nuggetnchill.github.io/clicking-game/
 
 ------
-![Screenshot](linkgoeshere)
+![Screenshot](https://media2.giphy.com/media/WUUDd7CF9Vv8nQFaJ4/giphy.gif)
 
 ### **How To Play**
 - Visit link 
